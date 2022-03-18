@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.player-container{
+  border: 2px solid rgb(128, 240, 221);
+  background-color: rgb(194, 186, 154);
+  border-radius: 20px;
+  margin: 5px;
+  padding: 8px;
+}
